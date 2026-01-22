@@ -1,11 +1,11 @@
-# 🌾 Croply – Smart Irrigation Advisor
+#  Croply – Smart Irrigation Advisor
 
 Croply is an AI-driven irrigation recommendation system that helps farmers decide *when* and *how much* water crops need.  
 Using soil data, crop type, and live weather inputs, Croply predicts irrigation levels to reduce water waste, boost yield, and enable climate-smart farming.
 
 ---
 
-## 📌 Features
+##  Features
 
 ✔️ Predicts irrigation levels: **High / Medium / Low / None**  
 ✔️ ML-based insights replacing guesswork  
@@ -16,7 +16,7 @@ Using soil data, crop type, and live weather inputs, Croply predicts irrigation 
 
 ---
 
-## 🔍 Workflow
+##  Workflow
 
 1. Collect soil, crop & fertilizer dataset  
 2. Fetch live weather inputs (API)  
